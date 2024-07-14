@@ -2,7 +2,7 @@ The Secret MessageDifficulty: Warm-up
 
 chall.py
 
-```
+``` python
 from Cryptodome.Util.number import getPrime, bytes_to_long
 
 flag = bytes_to_long(b"REDACTED")
